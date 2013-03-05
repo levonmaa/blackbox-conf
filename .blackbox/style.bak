@@ -1,0 +1,91 @@
+menu.title.color:	#555555
+menu.title.textColor:	#DD0000
+menu.title.font:	lime
+menu.title.justify:	center
+menu.frame.textColor:	#FFCC66
+menu.frame.disableColor:	#000000
+menu.frame.justify:	left
+menu.frame.color:	#666666
+menu.frame.font:	lime
+menu.hilite.color:	#222222
+menu.hilite.textColor:	#FFFFFF
+menu.title:	raised solid
+menu.frame:	solid
+menu.hilite:	sunken solid
+menu.bullet:	triangle
+
+toolbar.alignment: center
+toolbar.appearance: flat solid
+toolbar.backgroundColor: #444444
+toolbar.borderColor: #333333
+toolbar.borderWidth: 1
+toolbar.button.appearance: flat solid
+toolbar.button.backgroundColor: #555555
+toolbar.button.foregroundColor: black
+toolbar.button.marginWidth: 3
+toolbar.button.pressed.appearance: flat solid
+toolbar.button.pressed.backgroundColor: #444444
+toolbar.clock.appearance: flat solid
+toolbar.clock.backgroundColor: #555555
+toolbar.clock.textColor: #3366FF
+toolbar.font: bold
+toolbar.font.size: 8
+toolbar.label.appearance: flat solid
+toolbar.label.backgroundColor: #555555
+toolbar.label.marginWidth: 1
+toolbar.label.textColor: #3366FF
+toolbar.marginWidth: 1
+toolbar.windowLabel.appearance: flat solid
+toolbar.windowLabel.backgroundColor: #555555
+toolbar.windowLabel.textColor: #3366FF
+
+window.label.focus.appearance: flat solid
+window.label.focus.backgroundColor: #555555
+window.label.focus.borderColor: #333333
+window.label.unfocus.appearance: flat solid
+window.label.unfocus.backgroundColor: #444444
+window.label.unfocus.borderColor: #333333
+
+window.button.focus.appearance: flat solid 
+window.button.focus.backgroundColor: #555555
+window.button.focus.foregroundColor: #FF0066
+window.button.focus.borderColor: #444444
+window.button.unfocus.appearance: flat solid 
+window.button.unfocus.backgroundColor: #444444
+window.button.unfocus.foregroundColor: #666666
+window.button.unfocus.borderColor: #333333
+
+window.label.focus.textColor: #FF0066
+window.label.unfocus.textColor: #666666
+
+window.frame.borderWidth: 0
+window.frame.focus.borderColor: #555555
+window.grip.focus.appearance: flat solid border
+window.grip.focus.backgroundColor: #FF0066
+window.grip.focus.borderColor: black
+window.grip.focus.borderWidth: 1
+window.grip.unfocus.appearance: flat solid border
+window.grip.unfocus.backgroundColor: #555555
+window.grip.unfocus.borderColor: black
+window.grip.unfocus.borderWidth: 1
+window.handle.focus.appearance: flat solid border
+window.handle.focus.backgroundColor: #555555
+window.handle.focus.borderColor: black
+window.handle.focus.borderWidth: 1
+window.handle.unfocus.appearance: flat solid border
+window.handle.unfocus.backgroundColor: #555555
+window.handle.unfocus.borderColor: black
+window.handle.unfocus.borderWidth: 1
+window.handleHeight: 1
+
+window.title.focus.appearance: flat solid border
+window.title.focus.color: #444444
+window.title.focus.borderColor: #444444
+window.title.focus.borderWidth: 1
+window.title.marginWidth: 0
+window.title.unfocus.appearance: flat solid border
+window.title.unfocus.backgroundColor: #F33333
+window.title.unfocus.color: green
+window.title.unfocus.borderColor: #444444
+
+rootCommand:	bsetbg -full ~/.blackbox/images/lion.png

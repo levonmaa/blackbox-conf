@@ -1,0 +1,36 @@
+session.screen0.slit.placement:	CenterRight
+session.screen0.slit.direction:	Horizontal
+session.screen0.slit.onTop:	False
+session.screen0.slit.autoHide:	False
+session.screen0.toolbar.onTop:	True
+session.screen0.toolbar.autoHide:	False
+session.screen0.toolbar.placement:	TopLeft
+session.screen0.toolbar.widthPercent:	100
+session.screen0.workspaces:	4
+session.screen0.workspaceRows:	2
+session.screen0.strftimeFormat:	%I:%M %p
+session.screen0.workspaceNames:	Workspace 1,Workspace 2,Workspace 3,Workspace 4
+session.screen0.workspaceColumns:	2
+session.screen0.enableToolbar:	True
+session.doubleClickInterval:	250
+session.opaqueResize:	True
+session.autoRaiseDelay:	200
+session.windowSnapThreshold:	10
+session.edgeSnapThreshold:	0
+session.focusModel:	SloppyFocus AutoRaise
+session.maximumColors:	0
+session.styleFile:	/home/mikko/.blackbox/style
+session.disableBindingsWithScrollLock:	False
+session.toolbarActionsWithMouseWheel:	True
+session.imageDither:	OrderedDither
+session.placementIgnoresShaded:	True
+session.shadeWindowWithMouseWheel:	True
+session.opaqueMove:	True
+session.focusLastWindow:	True
+session.menuFile:	/home/mikko/.blackbox/menu
+session.rowPlacementDirection:	LeftToRight
+session.focusNewWindows:	True
+session.colPlacementDirection:	TopToBottom
+session.fullMaximization:	False
+session.windowPlacement:	RowSmartPlacement
+session.changeWorkspaceWithMouseWheel:	True

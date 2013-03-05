@@ -1,0 +1,26 @@
+[begin] (b l a c k b o x )
+    [exec] (Terminal) {gnome-terminal}
+    [exec] (Chromium) {chromium-browser}
+    [exec] (Spotify) {spotify}
+    [exec] (VPN) {/opt/cisco/vpn/bin/vpnui}
+    [submenu] (gnome) {gnome}
+        [exec] (nautilus) {nautilus --no-desktop}
+        [exec] (gnome-theme-manager) {gnome-theme-manager}
+        [exec] (gnome-settings-daemon) {gnome-settings-daemon}
+    [end]
+    [submenu] (video) {}
+        [exec] (gmplayer) {gmplayer}
+        [exec] (vlc) {vlc}
+        [exec] (xine) {xine}
+    [end]
+    [submenu] (system monitor) {}
+        [exec] (monitor start) {conky}
+        [exec] (monitor stop) {killall conky}
+    [end]
+    [nop] ()
+    [workspaces] (workspace list)
+    [config] (configuration)
+    [reconfig] (reconfigure)
+    [restart] (restart) {}
+    [exit] (exit)
+[end]
